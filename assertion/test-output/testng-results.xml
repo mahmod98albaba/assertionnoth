@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-04T18:15:47 EET" name="Default suite" finished-at="2023-12-04T18:16:03 EET" duration-ms="16259">
+    <groups>
+    </groups>
+    <test started-at="2023-12-04T18:15:47 EET" name="Default test" finished-at="2023-12-04T18:16:03 EET" duration-ms="16259">
+      <class name="assertion.aasert1">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:assertion.aasert1@21d8bcbe]" started-at="2023-12-04T18:15:47 EET" name="Setup" finished-at="2023-12-04T18:15:49 EET" duration-ms="2425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Contact()[pri:1, instance:assertion.aasert1@21d8bcbe]" started-at="2023-12-04T18:15:49 EET" name="Contact" finished-at="2023-12-04T18:15:56 EET" duration-ms="7358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Contact -->
+        <test-method signature="LogoutTest()[pri:2, instance:assertion.aasert1@21d8bcbe]" started-at="2023-12-04T18:15:56 EET" name="LogoutTest" finished-at="2023-12-04T18:15:59 EET" duration-ms="2378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutTest -->
+        <test-method signature="LoginTest()[pri:3, instance:assertion.aasert1@21d8bcbe]" started-at="2023-12-04T18:15:59 EET" name="LoginTest" finished-at="2023-12-04T18:16:03 EET" duration-ms="4014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:assertion.aasert1@21d8bcbe]" started-at="2023-12-04T18:16:03 EET" name="AfterTest" finished-at="2023-12-04T18:16:03 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- assertion.aasert1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
